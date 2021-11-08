@@ -7,13 +7,14 @@ Open up the excel workbook included in this repository and go to the "Bracket" t
 
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/81776788/140658625-1727ca09-9d1d-4fd0-8dec-c9c23dc4b8fa.PNG">
+   <img src="https://user-images.githubusercontent.com/81776788/140738297-b1385563-766d-43df-ae21-20c58037e313.PNG">
 </p>
 
 To switch to another season simply select the season from the dropdown menu below the cell titled "Season". To the right of the bracket you will also notice a breakdown of the automatic bids and the at-large bids along with their respective conference affiliations. 
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/81776788/140660426-75184642-ac50-4e2a-ab32-ba16ae209eab.PNG">
+   <img src="https://user-images.githubusercontent.com/81776788/140660426-75184642-ac50-4e2a-ab32-ba16ae209eab.PNG" width="499" height="350">
 </p>
 
 Do keep in mind that the conference affiliations are reflective of what they would have been for that particular season and not what the present-day affiliations are. 
+
