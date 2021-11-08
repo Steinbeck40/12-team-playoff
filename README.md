@@ -16,5 +16,5 @@ To switch to another season simply select the season from the dropdown menu belo
    <img src="https://user-images.githubusercontent.com/81776788/140660426-75184642-ac50-4e2a-ab32-ba16ae209eab.PNG" width="499" height="350">
 </p>
 
-Do keep in mind that the conference affiliations are reflective of what they would have been for that particular season and not what the present-day affiliations are. 
+Do keep in mind that the conference affiliations are reflective of what they would have been for that particular season and not what the present-day affiliations are. Lastly, if you would like to understand why the teams were seeded the way they were, check out the "Selection and Seeding Rules" tab.   
 
